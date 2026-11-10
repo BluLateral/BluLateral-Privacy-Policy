@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
   "app": "blu_lateral",
-  "revision": 2,
+  "revision": 3,
   "android": {
-    "enabled": true,
-    "minimumBuild": 26
+    "enabled": false,
+    "minimumBuild": 24
   },
   "ios": {
-    "enabled": true,
-    "minimumVersion": "1.2.0",
-    "minimumBuild": "26"
+    "enabled": false,
+    "minimumVersion": "1.1.7",
+    "minimumBuild": "24"
   }
 }
